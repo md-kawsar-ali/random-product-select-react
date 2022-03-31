@@ -1,5 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .App {
-    text-align: center;
     padding-top: 40px;
 }
 
@@ -7,5 +10,6 @@
     margin: 0;
     color: #1d335f;
     font-weight: 700;
+    text-align: center;
     text-transform: uppercase;
 }
