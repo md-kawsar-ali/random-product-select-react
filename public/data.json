@@ -1,0 +1,92 @@
+[
+    {
+    "price": "520",
+    "name": "iPhone 13 mini",
+    "id": "101",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    },
+    {
+    "price": "680",
+    "name": "iPhone 13 Pro",
+    "id": "102",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg"
+    },
+    {
+    "price": "700",
+    "name": "iPhone 13 Pro Max",
+    "id": "103",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+    },
+    {
+    "price": "600",
+    "name": "iPhone 13",
+    "id": "104",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+    },
+    {
+    "price": "730",
+    "name": "iPhone 12 Pro Max",
+    "id": "105",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+    },
+    {
+    "price": "650",
+    "name": "iPhone 12 Pro",
+    "id": "106",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg"
+    },
+    {
+    "price": "670",
+    "name": "iPhone 12",
+    "id": "107",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg"
+    },
+    {
+    "price": "540",
+    "name": "iPhone 12 mini",
+    "id": "108",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg"
+    },
+    {
+    "price": "460",
+    "name": "iPhone SE (2020)",
+    "id": "109",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+    },
+    {
+    "price": "720",
+    "name": "iPhone 11 Pro Max",
+    "id": "110",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg"
+    },
+    {
+    "price": "690",
+    "name": "iPhone 11 Pro",
+    "id": "111",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg"
+    },
+    {
+    "price": "650",
+    "name": "iPhone 11",
+    "id": "112",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
+    },
+    {
+    "price": "520",
+    "name": "iPhone XS Max",
+    "id": "113",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg"
+    },
+    {
+    "price": "480",
+    "name": "iPhone XR",
+    "id": "114",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg"
+    },
+    {
+    "price": "490",
+    "name": "iPhone XS",
+    "id": "115",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg"
+    }
+]
