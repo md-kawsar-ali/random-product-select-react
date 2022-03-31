@@ -22,3 +22,42 @@
 .cart-wrapper {
     transition: all 0.5s;
 }
+
+@media screen and (max-width: 1200px){
+    .shop-layout {
+        grid-template-columns: 2fr 1fr;
+    }
+    .products-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 950px){
+    .shop-layout {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .products-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .cart-wrapper {
+        width: 450px;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .shop-layout {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .products-wrapper {
+        display: flex;
+        flex-direction: column;
+        padding-top: 30px;
+    }
+    .cart-wrapper {
+        width: 100%;
+        margin: auto;
+    }
+}

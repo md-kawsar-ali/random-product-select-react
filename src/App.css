@@ -13,3 +13,9 @@ body {
     text-align: center;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 600px){
+    .App h1 {
+        font-size: 1.2rem;
+    }
+}

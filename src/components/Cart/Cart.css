@@ -31,3 +31,9 @@
 .cart-btn.clear {
     background: #ff0000;
 }
+
+@media screen and (max-width: 600px){ 
+    .cart {
+        margin-top: 30px;
+    }
+}
